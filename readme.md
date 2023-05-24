@@ -1,0 +1,1 @@
+automatização que faz a busca em uma lista de moedas e traz o valor R$ correspondente ao hoje
